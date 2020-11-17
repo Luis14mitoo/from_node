@@ -1,2 +1,2 @@
 # from_node
-backen implementado en node, si conecta a una base de datos mysql
+BACKEND implementado en node, express y se conecta a una base de datos mysql
